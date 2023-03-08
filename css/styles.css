@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: lightblue;
+}
+
+h1{
+    font-size: 4rem;
+}
+
+div{
+    font-size: 2.5rem;
+    margin-bottom: 4rem;
+}
+
+button{
+    font-size: 1.5rem;
+}
